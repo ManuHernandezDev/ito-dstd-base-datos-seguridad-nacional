@@ -32,7 +32,7 @@ Nota: Las credenciales de conexion a la base de datos (incluyendo el nombre espe
 
 #### Diccionario de Datos (Columnas Normalizadas):
 
-- ano (Cuantitativa | INTEGER): Ano en el que se registro la incidencia.
+- año (Cuantitativa | INTEGER): Año en el que se registro la incidencia.
 - clave_ent (Cualitativa | INTEGER): Clave numerica identificadora del Estado.
 - entidad (Cualitativa | VARCHAR): Nombre del Estado de la Republica.
 - cve_municipio (Cualitativa | INTEGER): Clave numerica identificadora del Municipio.
