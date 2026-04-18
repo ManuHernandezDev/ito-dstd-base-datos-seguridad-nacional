@@ -1,6 +1,14 @@
 # Sistema de Integracion de Datos de Seguridad - Plataforma Mexico
 
 ## Equipo 4: Seguridad de Datos - Plataforma México (Índices Delictivos)
+'''
+- CANDELARIA VELAZQUEZ RODRIGO     | 22161014
+- DIEGO GARCIA JENNIFER            | 22161050
+- ELORZA PÉREZ JOAQUÍN BARUC       | 22161052
+- GARCÍA GALLEGOS ERIC             | 22161068
+- HERNANDEZ SORIANO MANUEL         | 22161097
+- MARTÍNEZ MENDOZA JESÚS ÁNGEL     | 22161152
+'''
 
 Este proyecto automatiza la extraccion, transformacion y carga (ETL) de bases de datos publicas masivas sobre seguridad y justicia hacia un gestor PostgreSQL.
 
