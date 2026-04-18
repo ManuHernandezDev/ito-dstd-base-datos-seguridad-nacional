@@ -2,6 +2,7 @@
 
 ## Equipo 4: Seguridad de Datos - Plataforma México (Índices Delictivos)
 
+#### Integrantes
 - CANDELARIA VELAZQUEZ RODRIGO
 - DIEGO GARCIA JENNIFER
 - ELORZA PÉREZ JOAQUÍN BARUC
