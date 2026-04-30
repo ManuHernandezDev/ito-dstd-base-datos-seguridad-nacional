@@ -3,8 +3,8 @@ from sqlalchemy import create_engine
 
 # ==================== CONFIGURACIÓN DE BASE DE DATOS ====================
 # Las credenciales están directamente aquí para facilitar la portabilidad
-USUARIO = "postgres"
-CONTRASENA = "Max22161097"
+USUARIO = USUARIO # Tu usuario
+CONTRASENA = CONTRASEÑA # Tu contraseña
 HOST = "127.0.0.1"
 PUERTO = "5432"
 BASE_DATOS = "bd_incidencia_sesnsp"
