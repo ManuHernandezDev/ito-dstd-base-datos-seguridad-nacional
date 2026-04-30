@@ -2,8 +2,8 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # ==================== CONFIGURACION DE BASE DE DATOS ====================
-USUARIO = "postgres"
-CONTRASENA = "Max22161097"
+USUARIO = USUARIO # Tu usuario
+CONTRASENA = CONTRAEÑA # Tu contraseña
 HOST = "127.0.0.1"
 PUERTO = "5432"
 BASE_DATOS = "bd_accidentes_viales"
